@@ -1,11 +1,13 @@
 #container {
     width: 100%;
-    height: 2000px;
-    background: url(..\images/dark_embroidery) repeat;
+    height: 100%;
+    background-color:;
+    background-repeat: repeat;
 }
 
 .main {
     width: 80%;
+    height: 100%;
     margin-left: 10%;
     margin-right: 10%;
 }
